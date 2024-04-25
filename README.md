@@ -1,3 +1,5 @@
+> This project was built by the author while he was obtaining FreeCodeCamp's Scientific Computing With Python Certificate.
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
